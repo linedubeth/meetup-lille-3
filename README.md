@@ -6,4 +6,4 @@ Tous les participants sont invités à fournir leur fichier (dans un dossier à 
 
 ## Kezako ?
 
-Pour comprendre l'exercice, rendez-vous dans [le dossier contenant l'énnoncé](initial_files)
+Pour comprendre l'exercice, rendez-vous dans [le dossier contenant l'énoncé](initial_files)
