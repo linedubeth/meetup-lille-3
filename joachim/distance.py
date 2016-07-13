@@ -2,6 +2,7 @@
 from math import cos, sin, radians, atan2, sqrt
 radius = 6371  # km
 
+# voila la modification
 
 def distance(origin, destination):
     """
@@ -9,6 +10,7 @@ def distance(origin, destination):
     """
     if origin == destination:
         return 0
+# fin de la modification du fichier initial
 
     lat1, lon1 = origin[0], origin[1]
     lat2, lon2 = destination[0], destination[1]
